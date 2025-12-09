@@ -74,7 +74,7 @@ const WeatherWidget = () => {
     <div className="relative z-10 w-full flex items-start justify-center ">
       {/* Glassmorphism Card */}
       <div
-        className="bg-white/10 scale-75 max-w-xl backdrop-blur-2xl rounded-[50px] shadow-sm p-4 pb-6"
+        className="bg-white/10 scale-75 max-w-md md:max-w-xl backdrop-blur-2xl rounded-[50px] shadow-sm p-4 pb-6"
         style={
           {
             // boxShadow: '0 8px 32px 0 rgba(31, 38, 135, 0.37)'
